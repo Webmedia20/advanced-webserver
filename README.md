@@ -1,2 +1,2 @@
 # Web project
-a simple full webserver.
+a advanced webserver.
