@@ -9,6 +9,7 @@
 <body>
     <h2>Hello Advanced Web Server!</h2>
     <p><?= "PHP-Version: " . phpversion(); ?></p>
+    <p><a href="//localhost:5502">Go to Phpmyadmin</a></p>
     <sub>Made by Webmedia 2.0 in Karlsruhe</sub>
 </body>
 </html>
