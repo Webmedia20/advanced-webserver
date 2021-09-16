@@ -18,11 +18,17 @@ services:
             - ./app:/app
         networks:
             - wmnet
+        command:
+            - /bin/sh
+            - -c
+            - |
+                docker-php-ext-install mysqli
+                php-fpm
 
     db:
         image: mysql:latest
         ports:
-            - 33061:3306
+            - 3306:3306
         command: --init-file /data/application/init.sql
         volumes:
             - ./init.sql:/data/application/init.sql
