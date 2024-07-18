@@ -24,6 +24,6 @@
         echo 'PHP connected successfully to DB';
     ?>
     </p>
-    <sub>Made by Webmedia 2.0 in Karlsruhe</sub>
+    <sub>Made by mau & Webmedia 2.0 in Karlsruhe</sub>
 </body>
 </html>
