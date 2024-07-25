@@ -1,4 +1,4 @@
-# Web project [![Remove this later](https://img.shields.io/badge/-template-green)](https://digital-ateam.de/)
+# Web project [![Remove this later](https://img.shields.io/badge/-template-green)](https://webmedia20.de/)
 This is a template for a simple web server Docker setup with a database, PHP, Nginx and PhpMyAdmin (but you can also use e.g. Adminer). This is for development purposes only! Here you should insert a brief description of your project.
 
 ## Requirements
@@ -13,7 +13,7 @@ This is a template for a simple web server Docker setup with a database, PHP, Ng
 </details>
 
 <details>
-<summary>macOS High Sierra to Monterey (& M1)</summary>
+<summary>macOS High Sierra to Sonoma (& M1 or higher)</summary>
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [Git](https://github.com/git-guides/install-git#install-git-on-mac)
